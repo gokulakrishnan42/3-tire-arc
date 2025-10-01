@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConnectionModel/1.0.0": {
+        "runtime": {
+          "ConnectionModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConnectionModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

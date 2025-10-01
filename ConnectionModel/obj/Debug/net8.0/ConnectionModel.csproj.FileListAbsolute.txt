@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\connection\ConnectionModel\bin\Debug\net8.0\ConnectionModel.deps.json
+C:\Users\DELL\source\repos\connection\ConnectionModel\bin\Debug\net8.0\ConnectionModel.dll
+C:\Users\DELL\source\repos\connection\ConnectionModel\bin\Debug\net8.0\ConnectionModel.pdb
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ConnectionModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ConnectionModel.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ConnectionModel.AssemblyInfo.cs
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ConnectionModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ConnectionModel.sourcelink.json
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ConnectionModel.dll
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\refint\ConnectionModel.dll
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ConnectionModel.pdb
+C:\Users\DELL\source\repos\connection\ConnectionModel\obj\Debug\net8.0\ref\ConnectionModel.dll

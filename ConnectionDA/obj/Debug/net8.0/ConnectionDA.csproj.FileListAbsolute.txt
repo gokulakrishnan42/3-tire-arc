@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\connection\ConnectionDA\bin\Debug\net8.0\ConnectionDA.deps.json
+C:\Users\DELL\source\repos\connection\ConnectionDA\bin\Debug\net8.0\ConnectionDA.dll
+C:\Users\DELL\source\repos\connection\ConnectionDA\bin\Debug\net8.0\ConnectionDA.pdb
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.AssemblyInfo.cs
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.sourcelink.json
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.dll
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\refint\ConnectionDA.dll
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ConnectionDA.pdb
+C:\Users\DELL\source\repos\connection\ConnectionDA\obj\Debug\net8.0\ref\ConnectionDA.dll
